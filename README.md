@@ -1,6 +1,7 @@
 # 💫About Me :
 ⚙️ I’m currently working on ‘BikePackr’, my full stack Spring Boot / React app
-(capstone project for neuefische Java Developement Bootcamp) .
+(capstone project for neuefische Java Developement Bootcamp).
+
 🌱 I’m currently learning Java programming (backend and frontend).
 
 # 💻Tech Stack
