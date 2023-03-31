@@ -1,16 +1,17 @@
-### Hi there 👋
+# 💫About Me :
+⚙️ I’m currently working on ‘BikePackr’, my full stack Spring Boot / React app
+(capstone project for neuefische Java Developement Bootcamp) .
+🌱 I’m currently learning Java programming (backend and frontend).
 
-<!--
-**helenrendich/helenrendich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=helenrendich&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=helenrendich&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=helenrendich&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=helenrendich&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=helenrendich&icon=4&color=6)](https://visitcount.itsvg.in)
