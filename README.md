@@ -1,8 +1,15 @@
 # 💫About Me :
+
+Visit my LinkedIn profile:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helen-rendich-67572b271)
+
 ⚙️ I’m currently working on ‘BikePackr’, my full stack Spring Boot / React app
 (capstone project for neuefische Java Developement Bootcamp).
 
 🌱 I’m currently learning Java programming (backend and frontend).
+
+
 
 
 
@@ -18,3 +25,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=helenrendich&icon=4&color=6)](https://visitcount.itsvg.in)
+
